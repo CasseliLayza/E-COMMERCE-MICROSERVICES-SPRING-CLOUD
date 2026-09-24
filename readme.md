@@ -1,4 +1,4 @@
-![logo](src/main/resources/static/asets/img/msvc-ecommerce.png)
+![logo](docs/assets/img/ecommerce.jpg)
 
 # 🛒 E-Commerce Microservices
 
